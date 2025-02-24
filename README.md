@@ -1,12 +1,11 @@
 # 🍕 Pizza Sales Analysis with Power BI & MySQL
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF6ZGZ0M2JncGRuYjh0aWFwbDlleGVwOWF3eGc4ZGl1YzFtZXV4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3osxYoufeOGOA7xiX6/giphy.gif" alt="Pizza GIF" width="200">
+</p>
+
 
 ## 📌 Project Overview  
 This project analyzes pizza sales using **CSV data** imported into **MySQL**. Queries were executed in MySQL to extract key metrics, and the results were visualized in **Power BI**.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF6ZGZ0M2JncGRuYjh0aWFwbDlleGVwOWF3eGc4ZGl1YzFtZXV4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3osxYoufeOGOA7xiX6/giphy.gif" alt="Pizza GIF">
-</p>
-
 
 ## 🛠️ Project Workflow  
 
