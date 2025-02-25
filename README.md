@@ -21,7 +21,7 @@ This project analyzes pizza sales using **CSV data** imported into **MySQL**. Qu
 4. **Data Visualization**: Create meaningful charts and graphs.  
 5. **Dashboard & Report**: Build an interactive Power BI dashboard for analysis.  
 
-## 🛠️ Problem Statement
+## 🛠️ Dashboard Details
 ### 📈 KPI's Requirement
 - Total Revenue
 - Total Orders
