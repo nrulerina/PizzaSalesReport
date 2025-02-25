@@ -7,6 +7,14 @@
 ## 📌 Project Overview  
 This project analyzes pizza sales using **CSV data** imported into **MySQL**. Queries were executed in MySQL to extract key metrics, and the results were visualized in **Power BI**.
 
+<p align="center">
+  <img src="img/1.png" alt="Power BI Dashboard" width="600">
+</p>
+
+<p align="center">
+  <img src="img/2.png" alt="Power BI Dashboard" width="600">
+</p>
+
 ## 🛠️ Project Workflow  
 
 ### 🔹 Part 1: MySQL Server  
