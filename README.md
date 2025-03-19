@@ -48,4 +48,4 @@ This project analyzes pizza sales using **CSV data** imported into **MySQL**. Qu
  
 
 ---
-📢 *This project provides a comprehensive sales report for data-driven decision-making in a pizza business.*
+📢 Note: This project was inspired by a YouTube tutorial as part of my learning journey. However, I made modifications by using MySQL instead of SQL Server, changing the color theme and icons in Power BI, and adjusting query logic where necessary
