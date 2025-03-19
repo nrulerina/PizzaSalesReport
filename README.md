@@ -48,4 +48,4 @@ This project analyzes pizza sales using **CSV data** imported into **MySQL**. Qu
  
 
 ---
-📢 Note: This project was inspired by a YouTube tutorial as part of my learning journey. However, I made modifications by using MySQL instead of SQL Server, changing the color theme and icons in Power BI, and adjusting query logic where necessary
+📢 Note: This project was inspired by a YouTube tutorial as part of my learning journey. However, I made modifications by using MySQL instead of SQL Server, changing the color theme and icons in Power BI, adjusting query logic where necessary, converting the currency to Malaysian Ringgit (MYR), and modifying some of the charts for better data visualization. Through this process, I gained a lot of valuable knowledge
