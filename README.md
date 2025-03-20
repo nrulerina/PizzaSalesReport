@@ -15,6 +15,10 @@ This project analyzes pizza sales using **CSV data** imported into **MySQL**. Qu
   <img src="img/2.png" alt="Power BI Dashboard" width="600">
 </p>
 
+## 📊 Dataset  
+The dataset used in this project is sourced from Kaggle:  
+🔗 [Pizza Sales Dataset on Kaggle](https://www.kaggle.com/code/mdismielhossenabir/pizza-sales-dataset)
+
 ## 🛠️ Project Workflow  
 
 ### 🔹 Part 1: MySQL Server  
